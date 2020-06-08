@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><settingsnameText="Blanc Appearance"taglineText="@BlancAppearance"mainText="WE ARE ON THE WAY..."useOwnLogo="true"logoFilePath="logo.png"nameColor="0xffffff"taglineColor="0xffffff"mainColor="0xffffff"linkColor="0xffffff"linkRollOverColor="0x936758"linkRollOverBlurAmount="15"backgroundColor="0xffffff"backgroundGradientColor1="0xff4400"backgroundGradientColor2="0x000000"backgroundGradientAlphaPercent="40"borderColor="0xffffff"borderThickness="100"ownLogoXOffset="3"taglineXOffset="2"taglineYOffset="-9"mainXOffset="-2"linkXOffset="0"introBlurAmount="40"siteRotation="0"><link text="Sales@BlancAppearance.com" url="mailto:sales@blancappearance.com" />	</settings>
+<?xml version="1.0" encoding="UTF-8"?>
+<settings
+
+nameText="Blanc Appearance"
+taglineText="@BlancAppearance"
+mainText="WE ARE ON THE WAY..."
+
+useOwnLogo="true"
+logoFilePath="logo.png"
+
+nameColor="0xffffff"
+taglineColor="0xffffff"
+mainColor="0xffffff"
+linkColor="0xffffff"
+linkRollOverColor="0x936758"
+linkRollOverBlurAmount="15"
+
+backgroundColor="0xffffff"
+backgroundGradientColor1="0xff4400"
+backgroundGradientColor2="0x000000"
+backgroundGradientAlphaPercent="40"
+
+borderColor="0xffffff"
+borderThickness="100"
+
+ownLogoXOffset="3"
+taglineXOffset="2"
+taglineYOffset="-9"
+mainXOffset="-2"
+linkXOffset="0"
+
+introBlurAmount="40"
+siteRotation="0"
+
+>
+
+<link text="Visit us on Twitter" url="https://twitter.com/BlancAppearance" />
+<link text="Visit us on Instagram" url="https://www.instagram.com/BlancAppearance" />
+<link text="Contact us on Whatsapp" url="https://api.whatsapp.com/send?phone=966565684828" />
+<link text="Sales@BlancAppearance.com" url="mailto:Sales@BlancAppearance.com" />
+
+  
+
+</settings>
